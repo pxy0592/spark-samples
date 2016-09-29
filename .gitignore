@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 .idea/
 spark-samples.iml
+com.ibm.samples/
